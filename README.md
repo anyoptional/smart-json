@@ -172,4 +172,4 @@ dio.get(url).then((response) {
 ```
 
 ## Thanks
-`smart_json` is full inspired by [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSO), thanks to that great project.
+`smart_json` is fully inspired by [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSO), thanks to that great project.
