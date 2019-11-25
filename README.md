@@ -2,15 +2,15 @@
 
 `smart_json` makes it easy to deal with JSON data in dart.
 
-1. [How to Use](#How to Use)
+1. [How to Use](#How-to-Use)
 2. [Usage](#usage)
    - [Initialization](#initialization)
    - [Subscript](#subscript)
    - [Loop](#loop)
    - [Nullable getter](#Nullable-getter)
    - [Nonnull getter](#Nonnull-getter)
-3. [String representation](#String representation)
-4. [Work with dio](#Work with dio)
+3. [String representation](#String-representation)
+4. [Work with dio](#Work-with-dio)
 5. [Thanks](#Thanks)
 
 ## How to Use
