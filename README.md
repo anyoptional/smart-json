@@ -19,7 +19,9 @@ You can install `smart_json` by adding it to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-    smart_json: ^0.0.9
+  smart_json:
+    git:
+      url: https://github.com/any-optional/smart-json.git
 ```
 
 ## Usage
